@@ -68,8 +68,13 @@ Ensure that all inputs are valid before running the functions to avoid unexpecte
 
 Feel free to explore and test different functions to see their outcomes!
 
-## Author
+## Live Demo
+Check out the live demo of the modal window [here](https://functions-project.vercel.app/).
 
-This project was created by [Adham Nasser](https://github.com/Adham226).
+## Contact Information
 
-For any questions or feedback, please contact [adhamnasserxiii@gmail.com](mailto:adhamnasserxiii@gmail.com).
+If you have any questions or need assistance, you can reach out to the project author:
+
+- Email: [Adham Nasser](mailto:adhamxiii22@gmail.com)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamxiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
